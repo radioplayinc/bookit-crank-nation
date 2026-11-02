@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bookit-crank-nation.pages.dev/sitemap.xml

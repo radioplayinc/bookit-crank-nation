@@ -1,0 +1,20 @@
+# Crank Nation Studios
+
+Recording studio in Beltsville, MD, at 4600 Powder Mill Rd. Phone +1-301-955-6914.
+Founded by producer Mic Kartel. Genres: Hip Hop, R&B, Soul, Pop, Reggae.
+
+## Booking
+Book at https://bookit-crank-nation.pages.dev/ — pick what you need, pick hours or songs,
+pick a day and start time, add contact details, see the full price before confirming.
+FAQ: https://bookit-crank-nation.pages.dev/faq.html
+
+## Rates (published pricing, confirm current rates with the studio)
+- Recording studio time: $60 per hour, mixing and mastering included
+- Mixing: $80 per song
+- Mastering: $50 per song
+- Mix + Master: $130 per song
+- Exclusive beat: $200 per beat
+
+## Demo status
+This is a Tier 0 demo booking site. Demo bookings are saved nowhere, emailed nowhere,
+and texted nowhere. The downloadable session sheet is the only record.
